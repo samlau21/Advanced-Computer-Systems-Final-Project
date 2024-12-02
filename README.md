@@ -4,4 +4,4 @@ For this design project, I decided to investigate the performance characteristic
 Installs for this project:<br />
 - clang compiler (brew install gcc47)
 
-PseudoCode in Final Design Project PDF
+PseudoCode in Pseudocode.PDF
